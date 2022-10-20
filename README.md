@@ -11,5 +11,5 @@ future price movements. However due to the amount of data recorded everyday in t
 The goal of this project is to extract on-chain information, combine it to market data (off-chain information as price and volume of exchanged bitcoins) and use advanced deep learning models as HRHN to find patterns in order to predict future bitcoin price movements.
 
 part of the HRHN+PID+VAR code is from Alexandre Bourrieau amazing course (in french) in UDEMY :
-part 1 : https://www.udemy.com/course/modeles-avances-des-series-temporelles-avec-keras-partie-1
-part 2 : https://www.udemy.com/course/modeles-avances-des-series-temporelles-avec-keras-partie-2
+- part 1 : https://www.udemy.com/course/modeles-avances-des-series-temporelles-avec-keras-partie-1
+- part 2 : https://www.udemy.com/course/modeles-avances-des-series-temporelles-avec-keras-partie-2
